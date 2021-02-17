@@ -1,5 +1,5 @@
-# Artem_Tsukanov_Brian_On_Mid_Term_
-Artem_Tsukanov_Brian_On_Mid_Term_
+# Artem_Tsukanov_Brian_On_Mid_Term
+Artem_Tsukanov_Brian_On_Mid_Term
 
 # Project Description
 Mid Term class build
