@@ -4,9 +4,6 @@ Mid_Term_Artem_Tsukanov
 # Project Description
 Mid Term class build
 
-# Installation
-Copy respository from GitHub to preferred project location
-
 # MIT License
 Copyright 2020 Artem Tsukanov
 
